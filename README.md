@@ -8,20 +8,25 @@ The dataset used for training and validation contains two classes: "real" and "A
 
 Dataset Link: (https://huggingface.co/datasets/competitions/aiornot)
 
-Model Architecture
+Model Architecture :
+
 The model architecture is based on a pre-trained neural network, specifically ResNet, MobileNet, InceptionV3. The pre-trained model's weights are used as a starting point, and additional layers are added to fine-tune the model for our specific classification task.
 
-Training
+Training :
+
 The final model is trained using MobileNetV2 .
 
 Training Accuracy: 90.5
 Validation Accuracy: 92
 
-Future Improvements
+Future Improvements :
+
 The model's performance can be further improved by experimenting with different architectures, adjusting hyperparameters, and increasing the diversity and size of the dataset.
 
-Acknowledgments
+Acknowledgments :
+
 We acknowledge [any datasets or open-source code used], which contributed to the development and training of the AI image classifier.
 
-Contact
+Contact :
+
 If you have any questions or suggestions, please feel free to reach out.
