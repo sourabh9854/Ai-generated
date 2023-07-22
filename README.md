@@ -25,7 +25,7 @@ The model's performance can be further improved by experimenting with different 
 
 Acknowledgments :
 
-We acknowledge [any datasets or open-source code used], which contributed to the development and training of the AI image classifier.
+We acknowledge Huggingface dataset, which contributed to the development and training of the AI image classifier.
 
 Contact :
 
